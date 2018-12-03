@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="com.sonyericsson.album">
+        <permission name="android.permission.CHANGE_COMPONENT_ENABLED_STATE"/>
+        <permission name="android.permission.WRITE_MEDIA_STORAGE"/>
+        <permission name="com.sonyericsson.permission.CREDENTIALMANAGER"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.sonyericsson.music">
+        <permission name="android.permission.WRITE_MEDIA_STORAGE"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.sonymobile.moviecreator">
+        <permission name="android.permission.WRITE_MEDIA_STORAGE"/>
+    </privapp-permissions>
+
+</permissions>
