@@ -1,7 +1,6 @@
 id=sony-device-dummy
 name=Sony Device Dummy
 version=v1.0
-versionCode=1
+versionCode=2
 author=null4n @ github
 description=Add dummy Sony device libraries for Walkman, Album, Weather and other sony apps. Please read the readme first.
-minMagisk=17000
