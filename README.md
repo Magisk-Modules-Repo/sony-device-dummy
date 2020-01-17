@@ -1,4 +1,4 @@
-# Sony Device Dummp
+# Sony Device Dummy
 
 **You must clear Google Play Store's data in Settings in order to install Sony apps via Google Play!**
 
